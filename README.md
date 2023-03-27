@@ -13,13 +13,6 @@ git+https://github.com/mcherculano/merton_pds.git
 ```
 
 
-      File "C:\Users\colburm\AppData\Local\Temp\ipykernel_22624\3847525508.py", line 1
-        git+https://github.com/mcherculano/merton_pds.git
-                  ^
-    SyntaxError: invalid syntax
-    
-
-
 Then follow the file in repo: example.py
 
 ##### Required Inputs:
@@ -71,16 +64,4 @@ where $r$ is the risk-free interest rate. Thus,
 [3] Crosbie,P.J. and Bohn,J.R. (2003) "Modeling Default Risk", available online: http://www.defaultrisk.com/pp_model_35.htm
 
 
-
-
-```python
-jupytext --to markdown notebook.ipynb 
-```
-
-
-      File "C:\Users\colburm\AppData\Local\Temp\ipykernel_22624\224915017.py", line 1
-        jupytext --to markdown notebook.ipynb
-                      ^
-    SyntaxError: invalid syntax
-    
 
