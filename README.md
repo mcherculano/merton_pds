@@ -28,7 +28,9 @@ output = pds.merton_pds(df.iloc[:,0].values*10**6, df.iloc[:,1].values*10**3, ra
 pds = pd.DataFrame(output[0], df.index)
 plt.plot(pds)
 ```
-![image info](pds.png)
+<p align="center">
+  <img src="pds.png" />
+</p>
 #### --------------------------------------------------------------------------------------------------------------------------------------
 ##### Required Inputs:
 - Equity: Market value of the firm's equity.
