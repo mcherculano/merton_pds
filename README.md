@@ -16,7 +16,7 @@ Add the following line to your .py script:
 ```python
 import merton_pds.merton_pds as pds
 ```
-#### ------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### ----------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### Required Inputs:
 - Equity: Market value of the firm's equity.
 - Liabilities: Liability threshold of the firm.
@@ -29,7 +29,7 @@ import merton_pds.merton_pds as pds
     - 'MaxIterations' Used by the Solver. default is 500
 
 
-#### ------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### ----------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Theory:
 This program calculates Probabilities of Default for a a set of N firms across a number of time periods T.
 
