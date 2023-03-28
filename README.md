@@ -11,11 +11,10 @@ To install run the following command which will pull and install the latest comm
 pip install git+https://github.com/mcherculano/merton_pds.git
 ```
 
-
-TAdd the following line to your .py script: 
+Add the following line to your .py script: 
 
 ```python
-example.py
+import merton_pds.merton_pds as pds
 ```
 #### ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### Required Inputs:
