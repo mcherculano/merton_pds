@@ -16,7 +16,7 @@ Add the following line to your .py script:
 ```python
 import merton_pds.merton_pds as pds
 ```
-Example: 
+Python Usage Example: 
 ```python
 import merton_pds.merton_pds as pds
 import pandas as pd
