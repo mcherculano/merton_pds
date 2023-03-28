@@ -5,15 +5,14 @@
 #### ------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Instructions:
 
-To install: Add the following line to your .py script.
-
+To install run the following line in your command prompt:
 
 ```python
 pip install git+https://github.com/mcherculano/merton_pds.git
 ```
 
 
-Then follow the file in  the repo: 
+TAdd the following line to your .py script: 
 
 ```python
 example.py
