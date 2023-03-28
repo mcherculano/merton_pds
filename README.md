@@ -37,11 +37,11 @@ This program calculates Probabilities of Default for a a set of N firms across a
 
 The market value of the firm’s underlying assets $Va$ follows the stochastic process:
 
-$$dVa = \mu *Va*dt + \sigma*Va*dz$$ 
+$$dVa = \mu *Va *dt + \sigma *Va *dz$$ 
 
 If X is the book value, then
 
-$$ Ve = Va N(d1) - exp(-rT)X N(d2) $$
+$$ Ve = Va *N(d1) - exp(-rT) *X *N(d2) $$
 
 where Ve is the market value of the firm’s equity, and
 
@@ -50,7 +50,7 @@ $$ d2 = d1 - \sigma*\sqrt(T) $$
 
 where $r$ is the risk-free interest rate. Thus,
 
- $$ PD = N [(ln(Va/X)+( \mu -\sigma^2)*T)/(\sigma*\sqrt{2})] $$
+ $$ PD = N [(ln(Va/X)+( \mu -\sigma^2) *T)/(\sigma*\sqrt{2})] $$
  
 #### ------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Notes:
