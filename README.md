@@ -31,6 +31,7 @@ plt.plot(pds)
 <p align="center">
   <img src="pds.png" />
 </p>
+
 #### --------------------------------------------------------------------------------------------------------------------------------------
 ##### Required Inputs:
 - Equity: Market value of the firm's equity.
