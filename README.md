@@ -18,7 +18,7 @@ Then follow the file in  the repo:
 ```python
 example.py
 ```
-
+#### ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### Required Inputs:
 - Equity: Market value of the firm's equity.
 - Liabilities: Liability threshold of the firm.
