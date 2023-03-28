@@ -5,7 +5,7 @@
 #### ------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Instructions:
 
-To install run the following line in your command prompt:
+To install run the following command which will pull and install the latest commit from this repository, along with its Python dependencies:
 
 ```python
 pip install git+https://github.com/mcherculano/merton_pds.git
