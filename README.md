@@ -9,7 +9,7 @@ To install: Add the following line to your .py script.
 
 
 ```python
-git+https://github.com/mcherculano/merton_pds.git
+pip install git+https://github.com/mcherculano/merton_pds.git
 ```
 
 
