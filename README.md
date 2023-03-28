@@ -1,6 +1,5 @@
 ### Merton Probability of Default Calculator
 This calculator outputs risk-neutral probabilities of default for any entity quoted on the stock market provided that it is also possible to access data on its short-term liabilities or any other default threshold. 
-#### Miguel C. Herculano, University of Glasgow, January 2018
 
 #### Instructions:
 
