@@ -13,7 +13,11 @@ git+https://github.com/mcherculano/merton_pds.git
 ```
 
 
-Then follow the file in repo: example.py
+Then follow the file in  the repo: 
+
+```python
+example.py
+```
 
 ##### Required Inputs:
 - Equity: Market value of the firm's equity.
