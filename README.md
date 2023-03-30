@@ -54,9 +54,9 @@ $$ Ve = Va *N(d1) - exp(-rT) *X *N(d2) $$
 
 where Ve is the market value of the firm’s equity, and
 
-$$ d1 = [ln(Va/X) + (r+\sigma^2/2)T ]/ [\sigma*\sqrt{T}] $$
+$$ d_1 = [ln(Va/X) + (r+\sigma^2/2)T ]/ [\sigma*\sqrt{T}] $$
 
-$$ d2 = d1 - \sigma*\sqrt{T} $$
+$$ d_2 = d1 - \sigma*\sqrt{T} $$
 
 where $r$ is the risk-free interest rate. Thus,
 
