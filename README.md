@@ -75,5 +75,7 @@ where $r$ is the risk-free interest rate. Thus,
 
 [3] Crosbie,P.J. and Bohn,J.R. (2003) "Modeling Default Risk", available online: http://www.defaultrisk.com/pp_model_35.htm
 
+[4] Herculano, C. M. (2020) "Systemic Risk and the Macroeconomy", PhD thesis University of Glasgow.
+
 
 
